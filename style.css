@@ -1,0 +1,23 @@
+/* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+  
+body {
+  background: white;
+  background-color: lavender;
+}
+/*I changed the backgrounf color and font size to emphasis what the page was about, and the font.*/
+h1{ background-color: white;
+   font-size: 30px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+/*I added font-family: Arial, Helvetica, sans-serif; to the h1 tag to change it. I also added a different background color and font color*/
+ h3{color: #ffffff;
+   background-color: pink;
+   font-family: sans-serif;}
+/*I added the rules for thr paragraphs. I added a border,background color, and different font*/
+p{background-color: #ffe0fe;
+ font-family: Arial, Helvetica, sans-serif;
+ border: 2px;
+ border-style: dashed;
+ border-color: white;}
+
